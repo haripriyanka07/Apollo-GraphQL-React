@@ -1,0 +1,19 @@
+[
+    {
+       "id": "MAN-1533",
+       "name": "Volkswagen",
+       "year": 1976
+    },
+    
+    {
+       "id": "MAN-1023",
+       "name": "Hyundai",
+       "year": 1945
+    },
+
+    {
+       "id": "MAN-4532",
+       "name": "Suzuki",
+       "year": 1988
+    }
+ ]

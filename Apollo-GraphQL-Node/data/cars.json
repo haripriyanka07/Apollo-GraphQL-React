@@ -1,0 +1,32 @@
+[
+   {
+      "id": "C21",
+      "name": "i20",
+      "manufacturerID": "MAN-1023"
+   },
+   {
+      "id": "C43",
+      "name": "Ameo",
+      "manufacturerID": "MAN-1533"
+   },
+   {
+      "id": "C22",
+      "name": "vento",
+      "manufacturerID": "MAN-1533"
+   },
+   {
+      "id": "C33",
+      "name": "baleno",
+      "manufacturerID": "MAN-4532"
+   },
+   {
+      "id": "C11",
+      "name": "swift",
+      "manufacturerID": "MAN-4532"
+   },
+   {
+      "id": "C41",
+      "name": "Xcent",
+      "manufacturerID": "MAN-1023"
+   }
+]
